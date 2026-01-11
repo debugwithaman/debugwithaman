@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Aman Kazi 👋
 
-<!--
-**debugwithaman/debugwithaman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Engineering student with a strong interest in backend development.
+Currently learning and building projects using the MERN stack while
+strengthening DSA and problem-solving skills.
 
-Here are some ideas to get you started:
+## 🔧 Tech Stack
+- JavaScript
+- Node.js
+- Express.js
+- MongoDB
+- React.js
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Current Focus
+- Backend & API development
+- Writing clean and maintainable code
+- Improving problem-solving & DSA fundamentals
+
+## 📫 Connect with Me
+- LinkedIn: https://www.linkedin.com/in/kazi-aman/
+- Instagram : https://www.instagram.com/amankazi_455/
